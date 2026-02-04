@@ -1,0 +1,6 @@
+Physics : 56
+Chemistry : 42
+Math : 4
+English : 254254
+Sanskrit : 54
+        
